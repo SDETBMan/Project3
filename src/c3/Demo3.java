@@ -6,6 +6,8 @@ public class Demo3 {
 		System.out.println("Wednesday");
 		System.out.println("Sprint 1...");
 		System.out.println("mon");
+		//From GitHub
+		
 	}
 
 }
